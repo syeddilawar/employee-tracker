@@ -21,7 +21,7 @@ function startemployee() {
       /* Pass your questions in here */
     ])
     .then((answers) => {
-      console.log(answers);
+      // console.log(answers);
       // Use user feedback for... whatever!!
     })
     .catch((error) => {
